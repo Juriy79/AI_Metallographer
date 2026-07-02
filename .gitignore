@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Machine Learning models
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+outputs/
+*.pdf
+*.png
+
+# Dataset
+data/
+
+# Streamlit
+.streamlit/

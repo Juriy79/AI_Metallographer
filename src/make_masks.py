@@ -68,7 +68,7 @@ def process_folder(input_dir: str, output_dir: str) -> None:
     print(f"Найдено изображений: {len(image_files)}")
 
     for image_file in image_files:
-        
+
         safe_name = image_file.stem.replace("х", "x").replace("Х", "X")
         mask_file = output_path / f"{safe_name}_mask.png"
         create_talc_mask(image_file, mask_file)

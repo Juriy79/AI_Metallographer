@@ -26,3 +26,7 @@ data/
 
 # Streamlit
 .streamlit/
+reports/
+
+__pycache__/
+.venv/

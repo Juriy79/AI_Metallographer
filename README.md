@@ -1,5 +1,28 @@
 ﻿# AI Metallographer
 
+
+ ## Features
+
+- Semantic segmentation of talc and sulfides using U-Net
+- Ore classification into three classes
+- Morphometric analysis
+- Large panorama processing using tiled inference
+- Phase distribution map
+- PDF report generation
+- Excel report generation
+- Intergrowth analysis (normal / fine)
+
+   ## Возможности
+
+- Семантическая сегментация талька и сульфидов с помощью U-Net
+- Классификация руды по трем классам
+- Морфометрический анализ
+- Обработка больших панорам с помощью плиточного вывода
+- Карта распределения фаз
+- Создание отчета в формате PDF
+- Создание отчета в формате Excel
+- Анализ срастания (нормальное / тонкое)
+
 Автоматический анализ OM-изображений полированных шлифов.
 
 ## Возможности

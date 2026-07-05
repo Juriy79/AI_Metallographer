@@ -10,11 +10,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Machine Learning models
-models/
-*.pth
-*.pt
-*.ckpt
+
 
 # Outputs
 outputs/
